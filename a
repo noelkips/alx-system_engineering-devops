@@ -1,0 +1,469 @@
+[33mcommit 57de9fc6d8ded7608054e12f4a84da13d9ec2f77[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 20:02:43 2022 +0000
+
+    Correct shell variables, expansions Advance task 17
+
+[33mcommit d4caaad880e7758c6dba89b65165871012764610[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 19:57:14 2022 +0000
+
+    Correct shell variables, expansions Advance task 17
+
+[33mcommit 44b31fdfcf991f94a518a9a5eea08d855377ba0d[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 19:49:14 2022 +0000
+
+    Add shell variables, expansions advance task
+
+[33mcommit 7f385ec02d5c4bfd70ea0cc662940888457b0dac[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 18:38:00 2022 +0000
+
+    Correct shell variables, expansions task 13
+
+[33mcommit b96bdb50530f708407c2f887bb03516fc2f7c63e[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 18:34:45 2022 +0000
+
+    Correct shell variables, expansions task 13
+
+[33mcommit 6e2f20941d23d951c20f9a7b6c5dc75f48f0f038[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 18:33:08 2022 +0000
+
+    Add shell variables, expansions task 13
+
+[33mcommit 44aa1defc6782ae3185390f08b5488fe5b912e22[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 18:27:36 2022 +0000
+
+    Correct shell variables, expansions task 11 & 12
+
+[33mcommit 60c004424f5a971dc324e6249aad4bdd1b64d8c4[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 18:24:03 2022 +0000
+
+    Add shell variables, expansions task 12
+
+[33mcommit e298f99a759ccb5b0af850f2db8f2f958f8fdf93[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 18:19:43 2022 +0000
+
+    Add shell variables, expansions task 12
+
+[33mcommit 58e3750562bd818e7457f0529e2ec1ae6ff4d6e0[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 18:00:40 2022 +0000
+
+    Add shell variables, expansions task 11
+
+[33mcommit f8588f9e741c199b886d1b83310748e9afe7e716[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 17:42:56 2022 +0000
+
+    Add shell variables, expansions task 9 & 10
+
+[33mcommit 71827fd23ead4cdf4d551f27a3d7d8e37cde96a1[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 17:38:30 2022 +0000
+
+    Correct shell variables, expansions task 8
+
+[33mcommit 06e487ef0a7935526e63f61a1f0d2cd1947e72e1[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 17:33:20 2022 +0000
+
+    Add shell variables, expansions task 8
+
+[33mcommit 7f1a30a876e0ee53ef38bee970ce85162ffb6325[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 17:28:13 2022 +0000
+
+    Add shell variables, expansions task 6 & 7
+
+[33mcommit 8b8f505ce8a00913c500d883bb851a48c334e262[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 17:25:07 2022 +0000
+
+    Add shell variables, expansions task 5
+
+[33mcommit e7d7d08f1309d13e594db55cbb8fa9e76cd63554[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 17:21:46 2022 +0000
+
+    Add shell variables, expansions task 4
+
+[33mcommit f69d4cd53004eefe4e33f903b2abf996de9d8f8d[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 17:17:22 2022 +0000
+
+    Correct shell variables, expansions task 3
+
+[33mcommit fec9856bfd65e97f6ebb21ef44d7dcaa0b331a2e[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 17:14:31 2022 +0000
+
+    Add shell variables, expansions task 3
+
+[33mcommit 1700f73312249b607603f3bcb126dc5c6055599b[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 16:43:28 2022 +0000
+
+    Correct shell variables, expansions task 2
+
+[33mcommit 74edc7b93864df80cc4f663e4d2a49ee91edb42e[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 16:41:58 2022 +0000
+
+    Add shell variables, expansions task 2
+
+[33mcommit d477b50fc20b3453454c464ac9d0baeb4a144c74[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 16:29:05 2022 +0000
+
+    Correct shell variables, expansions task 1
+
+[33mcommit d8c04e7c4eb9f787441f7205d4759d784b87cc11[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 16:27:15 2022 +0000
+
+    Add shell variables, expansions task 1
+
+[33mcommit 550561b8329e9226b0a83bd2b10ac4b20310727c[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Tue Dec 6 16:20:44 2022 +0000
+
+    Add shell varianles, expansions task 0
+
+[33mcommit 1dc328fef48290385e08b1662749bbb2520db0a6[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 21:20:23 2022 +0000
+
+    correct incorrect task 7 & 26
+
+[33mcommit 5429c9cd8d96176e3aa469e96bc8070611a68c99[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 21:18:29 2022 +0000
+
+    correct incorrect task 7 & 26
+
+[33mcommit d4fb290a1aafe34ddbdc6fe9c00996a9b1fc15ec[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 21:08:42 2022 +0000
+
+    correct incorrect task 21, 24, 25, 26
+
+[33mcommit b1f077cd033fcf597f43bb8c6cbfb057a76e16be[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 21:01:07 2022 +0000
+
+    Add task 23-26 shell i/o
+
+[33mcommit adfaa2bcc84865b2ba55401ab6220a447acd49a9[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 20:45:10 2022 +0000
+
+    add task 21-22 shell i/o
+
+[33mcommit 6c3fa9ba62fd8f3cbeb8efd99ca9c39377fa4d0a[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 20:38:37 2022 +0000
+
+    correc task 18
+
+[33mcommit 03aa6de030c4b7d2af9b6504b22bf5b45f232e77[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 20:18:41 2022 +0000
+
+    Add task 10-20 shell I/O
+
+[33mcommit 17dc2ae3b4e7a87661b6c2cafb30a59a39b57521[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 19:49:22 2022 +0000
+
+    Add shell I/O task 8-9
+
+[33mcommit 647af6248705c4606384350b41ab434c9c766255[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 19:33:20 2022 +0000
+
+    Add shell I/O task 7
+
+[33mcommit 36586c0e0b0616b8f930416a13ecc18f717f081b[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 19:11:39 2022 +0000
+
+    Correct task 3 & 6 ALX Shell I/O Redirect
+
+[33mcommit a8e562d5f10657bb3ec3eb44c17001cc376f748b[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 19:03:25 2022 +0000
+
+    Add task 3-6 ALX Shell I/O Redirect
+
+[33mcommit 1d027c44d79d6c1f36a49d6c6e1ce35dbb8cec2c[m
+Author: Noel .k. Langat <noelkipronolangat@gmail.com>
+Date:   Mon Dec 5 18:40:42 2022 +0000
+
+    add shell I/O Redirection tasks 0-2
+
+[33mcommit aca3d21f8818ede2e9aec3d3fc872f5d7b1ee97c[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Thu Dec 1 12:43:28 2022 -0800
+
+    correct task 7
+
+[33mcommit d1895fdd2c91a3916180238a4a2d3d6856e242cc[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Thu Dec 1 12:39:54 2022 -0800
+
+    correct task 7
+
+[33mcommit af1ca958ca5ec7f37576f8aec9c88b01312e7aad[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Thu Dec 1 12:27:37 2022 -0800
+
+    correct task 7 & 11
+
+[33mcommit f35f6630f20f176f42f7b0644207dc22daa69f5a[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Thu Dec 1 12:14:13 2022 -0800
+
+    Add and correct
+    
+    add task 17 and make correction for task 0, 5, 6, 7, 8, and 11
+
+[33mcommit 36cabee6c831eda4b806254b9ae5deddad856c2b[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Thu Dec 1 11:50:27 2022 -0800
+
+    add task 14-16
+
+[33mcommit 085a0f3826d76462a02118f02e4451daabad4498[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Thu Dec 1 03:54:49 2022 -0800
+
+    Add mandatory tasks
+
+[33mcommit e199d067733117c3dc3f4a708b1952291c3d2ebb[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Thu Dec 1 00:14:40 2022 -0800
+
+    Add task 0-2
+
+[33mcommit ae99e527dd81a010551de15ff5985cad37d523ee[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 14:40:37 2022 -0800
+
+    correct task 19
+
+[33mcommit 903ff493017798e986fc6e3b1d5fe2fef11e084e[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 14:23:20 2022 -0800
+
+    delete task 19
+
+[33mcommit eedaacc1314e68f548118bee42fb58eb3ced8639[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 14:12:28 2022 -0800
+
+    correct task 19
+
+[33mcommit 2823768b8bad18e9056972b47f1770c1389b8d28[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 14:06:36 2022 -0800
+
+    add task 19
+
+[33mcommit aa1d83ab9159198efabd9e53f1dfad2464dd38cd[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 14:00:29 2022 -0800
+
+    add task 18
+
+[33mcommit 15a1eb756373cadffb0a628f9b6a2ea843b21405[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 13:57:12 2022 -0800
+
+    update task 17
+
+[33mcommit f83f439e969b464a50f29ac896fec8fa8e6050ea[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 13:54:51 2022 -0800
+
+    update task 17
+
+[33mcommit 7ed59fcf3a02fdb288ed423000192f7f9fd03388[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 13:41:13 2022 -0800
+
+    update task 17
+
+[33mcommit 9beeae92af20fdef87ec2e7cabc95ce13b4134d4[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 13:38:55 2022 -0800
+
+    add task 17
+
+[33mcommit dc482c52d8b0b87e587704a358ae93917ed6f47d[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 13:36:14 2022 -0800
+
+    update task 16
+
+[33mcommit 1b9a07695a8f2cb42cc71484c56968513feba187[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 13:32:50 2022 -0800
+
+    add task 16
+
+[33mcommit f8fc242bfcf3c5f0eba1ffd4e9ff00aac285300a[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 13:28:29 2022 -0800
+
+    add task 15
+
+[33mcommit b63235444d1a252919378f88ff07072e1f732f8c[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 13:27:46 2022 -0800
+
+    add task 15
+
+[33mcommit 3053d01e071fe33b9473173e7e01bab802336e74[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 13:12:45 2022 -0800
+
+    Update 11
+
+[33mcommit bd336885f6dd32626f2151d86bf9b6dcdcd9e800[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 12:55:10 2022 -0800
+
+    update 7-12
+
+[33mcommit 413abfd3bd0a888e62161b034ce4c00f54a3ff7b[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 12:35:49 2022 -0800
+
+    update 7-13
+
+[33mcommit d20ff6c7fd8f1851ec470e7a63a2acc412bc18bb[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 12:31:22 2022 -0800
+
+    update 6
+
+[33mcommit c3226a607ec993f4d46c03d2348809891fa7d348[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 12:24:51 2022 -0800
+
+    add 2
+
+[33mcommit 2559f68860e0efe984162796af58ef97d9122b47[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 12:21:36 2022 -0800
+
+    delete  2
+
+[33mcommit afc230215c1be5f3bdf63a5e9dd66ff40385664a[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 12:09:54 2022 -0800
+
+    Add script
+
+[33mcommit 87c8bafcd67589b34f64235f31fa62edbd1f55a7[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 12:03:41 2022 -0800
+
+    dd script
+
+[33mcommit 95315f3da98bd9ae0dd5070886c6c95f2baf029a[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 11:45:17 2022 -0800
+
+    Update script
+
+[33mcommit ca98b7a516d7cc9818a484fb5f843fe814b5edee[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 11:42:18 2022 -0800
+
+    Update scripts
+
+[33mcommit cd785d68a53d0ee08c6e5864b02c1ee9c266cd99[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 11:28:13 2022 -0800
+
+    Update script
+
+[33mcommit f75ea142468b0721576dc0db418a73df13598d86[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 11:22:55 2022 -0800
+
+    Add script
+
+[33mcommit e67017b1a1c2df2d8f2d5f547ecc4f73dfba073b[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 11:13:23 2022 -0800
+
+    Update script
+
+[33mcommit 48945e258f0d39a034acb5ddb6775f8c025c9fbe[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 11:00:54 2022 -0800
+
+    Update script
+
+[33mcommit 14fe01e0481608758ad16c407fa4464b2bf0db3e[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 10:50:14 2022 -0800
+
+    Add scripts
+
+[33mcommit 22742ed39aec18ea4dc8bda8d33030262068c584[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 10:21:54 2022 -0800
+
+    Add script
+
+[33mcommit d7b1bfd0b9aabefd5e4f3a4264523adfd2ad7afc[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 10:07:54 2022 -0800
+
+    Add script
+
+[33mcommit fd758f66ebc6c5348be1488c331075164cedf38c[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 09:45:37 2022 -0800
+
+    Add script
+
+[33mcommit 581bc6d76ecf41e95e9eea3d28e2e4695471c22e[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 09:30:30 2022 -0800
+
+    add script
+
+[33mcommit db9480e8f8cf7bface5993e40529c467f936c195[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 09:25:26 2022 -0800
+
+    add script
+
+[33mcommit 11508c6365cc7982355c177d8c398d315034ec2d[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 08:53:06 2022 -0800
+
+    Add project one
+
+[33mcommit 5d4fb3674d45e11bf5d96f5f397f62682b5e1aff[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 08:36:43 2022 -0800
+
+    add file
+
+[33mcommit e1add6561dc155fe53a3c479713797782aac4e3b[m
+Author: Noel Langat <noellangat28@gmail.com>
+Date:   Wed Nov 30 08:31:15 2022 -0800
+
+    Add readme
